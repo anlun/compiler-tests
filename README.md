@@ -57,3 +57,6 @@ clean:
 4. If + циклы (`core/test009.expr` - `core/test022.expr`) в режиме интерпретатора.
 5. If + циклы (`core/test009.expr` - `core/test022.expr`) в режиме стековой машины.
 6. If + циклы (`core/test009.expr` - `core/test022.expr`) в режиме компиляции.
+7. Функции (`core/test023.expr` - `core/test026.expr`) в режиме интерпретатора.
+8. Функции (`core/test023.expr` - `core/test026.expr`) в режиме стековой машины.
+9. Функции (`core/test023.expr` - `core/test026.expr`) в режиме компиляции.
