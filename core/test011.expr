@@ -1,15 +1,8 @@
-fun a(x, y) begin
-  return x + y
-end
+s := 0;
 
-fun b(y) begin
-  y := 5;
-  write(y);
-  return y
-end
+repeat
+  n := read();
+  s := s + n
+until n == 0;
 
-x := 2;
-write(b(x));
-a := 1;
-b := 2;
-write(a(a, b))
+write (s)  
