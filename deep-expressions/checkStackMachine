@@ -1,0 +1,11 @@
+TESTS=$(basename $(sort $(wildcard generated*.expr)))
+
+.PHONY: check $(TESTS)
+
+check: $(TESTS)
+
+$(TESTS): %: %.expr
+	cat $@.input | ../../rc -s $< > $@.log && diff $@.log orig/$@.log
+
+clean:
+	rm -f test*.log *.s *~ $(TESTS)
