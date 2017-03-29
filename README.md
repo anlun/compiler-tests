@@ -51,12 +51,18 @@ clean:
 ```
 
 ## Задания
-1. Выражения + ввод / вывод в режиме интерпретатора (`core/test001.expr` - `core/test008.expr`, `expressions/*.expr`, `deep-expressions/*.expr`).
-2. Выражения + ввод / вывод в режиме стековой машины (`core/test001.expr` - `core/test008.expr`, `expressions/*.expr`, `deep-expressions/*.expr`).
-3. Выражения + ввод / вывод в режиме компиляции (`core/test001.expr` - `core/test008.expr`, `expressions/*.expr`, `deep-expressions/*.expr`).
-4. If + циклы (`core/test009.expr` - `core/test022.expr`) в режиме интерпретатора.
-5. If + циклы (`core/test009.expr` - `core/test022.expr`) в режиме стековой машины.
-6. If + циклы (`core/test009.expr` - `core/test022.expr`) в режиме компиляции.
-7. Функции (`core/test023.expr` - `core/test026.expr`) в режиме интерпретатора.
-8. Функции (`core/test023.expr` - `core/test026.expr`) в режиме стековой машины.
-9. Функции (`core/test023.expr` - `core/test026.expr`) в режиме компиляции.
+01. Выражения + ввод / вывод в режиме интерпретатора (`core/test001.expr` - `core/test008.expr`, `expressions/*.expr`, `deep-expressions/*.expr`).
+02. Выражения + ввод / вывод в режиме стековой машины (`core/test001.expr` - `core/test008.expr`, `expressions/*.expr`, `deep-expressions/*.expr`).
+03. Выражения + ввод / вывод в режиме компиляции (`core/test001.expr` - `core/test008.expr`, `expressions/*.expr`, `deep-expressions/*.expr`).
+04. If + циклы (`core/test009.expr` - `core/test022.expr`) в режиме интерпретатора.
+05. If + циклы (`core/test009.expr` - `core/test022.expr`) в режиме стековой машины.
+06. If + циклы (`core/test009.expr` - `core/test022.expr`) в режиме компиляции.
+07. Функции (`core/test023.expr` - `core/test026.expr`) в режиме интерпретатора.
+08. Функции (`core/test023.expr` - `core/test026.expr`) в режиме стековой машины.
+09. Функции (`core/test023.expr` - `core/test026.expr`) в режиме компиляции.
+10. Строки (`core/test027.expr` - `core/test028.expr`) в режиме интерпретатора.
+11. Строки (`core/test027.expr` - `core/test028.expr`) в режиме стековой машины.
+12. Строки (`core/test027.expr` - `core/test028.expr`) в режиме компиляции.
+13. Массивы (`core/test029.expr` - `core/test030.expr`) в режиме интерпретатора.
+14. Массивы (`core/test029.expr` - `core/test030.expr`) в режиме стековой машины.
+15. Массивы (`core/test029.expr` - `core/test030.expr`) в режиме компиляции.
